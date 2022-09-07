@@ -1,4 +1,4 @@
 TRANSLATING APP
 
 phase1-project
-An online Web App thatcan translate one language to another.
+An online Web App that can translate one language to another.
