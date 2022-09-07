@@ -1,4 +1,4 @@
-#phase1-project
-
 TRANSLATING APP
+
+phase1-project
 An online Web App thatcan translate one language to another.
