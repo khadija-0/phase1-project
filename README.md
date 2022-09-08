@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Author
 
 Khadija Daahir
@@ -25,3 +26,7 @@ View [live]
 ## License
 This  project is under the  [MIT] (License)
 license .
+=======
+# my-website
+# ph1-project
+>>>>>>> origin/master
