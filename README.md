@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 ## Author
 
 Khadija Daahir
@@ -24,9 +24,5 @@ View [live]
 3. js
 
 ## License
-This  project is under the  [MIT] (License)
+This  project is under the  [MIT](License)
 license .
-=======
-# my-website
-# ph1-project
->>>>>>> origin/master
