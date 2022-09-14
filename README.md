@@ -17,7 +17,7 @@ To access this project on your local files,you can clone it using the following 
 3. This will lone the repository into your local folder.
 
 ## Live setup
-View [live]
+View [live] https://khadija-0.github.io/phase1-project/
 
 ## programmes used
 1. HTML
